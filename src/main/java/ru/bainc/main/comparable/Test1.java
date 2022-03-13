@@ -15,6 +15,7 @@ public class Test1 {
         Collections.sort(list);
         System.out.println("Posle sortirovki");
         System.out.println(list);
+        System.out.println("GitHub!!!");
 
     }
 }
