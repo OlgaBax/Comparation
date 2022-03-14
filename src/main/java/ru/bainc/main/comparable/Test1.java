@@ -16,6 +16,7 @@ public class Test1 {
         System.out.println("Posle sortirovki");
         System.out.println(list);
         System.out.println("GitHub!!!");
+        System.out.println();
 
     }
 }
